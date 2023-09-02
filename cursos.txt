@@ -1,0 +1,3 @@
+Udemy | Course | https://www.udemy.com | Microservices Architecture - The Complete Guide | Mai/2023 | https://www.udemy.com/certificate/UC-08416d0f-1750-4367-8d04-b70fc2747c89/
+Udemy | Course | https://www.udemy.com | Domine Microservicos e Mensageria com Spring Cloud e Docker | Mai/2023 | https://www.udemy.com/certificate/UC-4f75026e-e8d5-4d86-80a7-7bad8d1587f5/
+Udemy | Course | https://www.udemy.com | Outro Curso | Set/2023 | https://www.udemy.com/certificate/UC-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/
