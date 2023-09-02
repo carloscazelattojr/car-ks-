@@ -19,8 +19,8 @@ Udemy | Course | https://www.udemy.com | June 2020 | Docker: Ferramenta essencia
 DevSuperior | Course | https://devsuperior.com.br/ | January 2022 | Semana Spring React 3.0 | https://learn.devsuperior.com/certificados/2115471 
 Microsoft | Certificate | https://www.microsoft.com/ | July 2021 | Microsoft Certified: Azure Data Fundamentals | https://www.credly.com/badges/6a8ea78d-7243-4e32-8561-fd35a4ef9503 
 Microsoft | Certificate | https://www.microsoft.com/ | September 2020 | MTA: Database Fundamentals - Certified 2020 | https://www.credly.com/badges/60b7481a-ce76-4995-8994-85a57a1e1259  
-Kanban University | Certificate | #https://kanban.university/ | Jan 2021 |Treinamento Kanban para Times (TKP) | https://kanban.university/
+Kanban University | Certificate | https://kanban.university/ | Jan 2021 | Treinamento Kanban para Times (TKP) | https://kanban.university/
 Scrum Alliance® | Certificate | https://www.scrumalliance.org | expired | CSM - Certified ScrumMaster® | https://www.scrumalliance.org/community/profile/cdeoliveir3 
-Scrum Alliance® | Certificate | https://www.scrumalliance.org | expired |CSPO - Certified Scrum Product Owner® | https://www.scrumalliance.org/community/profile/cdeoliveir3
-Softblue | Course | https://www.softblue.com.br| November 2022 | Fundamentos de Java | https://www.softblue.com.br/certificado/142901B0F8D4  
+Scrum Alliance® | Certificate | https://www.scrumalliance.org | expired | CSPO - Certified Scrum Product Owner® | https://www.scrumalliance.org/community/profile/cdeoliveir3
+Softblue | Course | https://www.softblue.com.br | November 2022 | Fundamentos de Java | https://www.softblue.com.br/certificado/142901B0F8D4  
 Softblue | Course | https://www.softblue.com.br | May 2022 | Java Insider | https://www.softblue.com.br/certificado/332251B1F2D8
