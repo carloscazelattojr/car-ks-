@@ -16,3 +16,11 @@ Udemy | Course | https://www.udemy.com | November 2021 | Building Real-Time REST
 Udemy | Course | https://www.udemy.com | October 2021 | Java 2022 COMPLETO: Do Zero ao Profissional + Projetos! | https://www.udemy.com/certificate/UC-b4860309-e0cc-4abf-bdc7-f0b7a08c5dab/
 Udemy | Course | https://www.udemy.com | May 2021 | Microsserviços Java com Spring Boot e Spring Cloud | https://www.udemy.com/certificate/UC-95d036be-8950-4597-b8fe-d9889399c55e/
 Udemy | Course | https://www.udemy.com | June 2020 | Docker: Ferramenta essencial para Desenvolvedores | https://www.udemy.com/certificate/UC-3a59812f-4d7f-4808-b449-350b95e43aa5/
+DevSuperior | Course | https://devsuperior.com.br/ | January 2022 | Semana Spring React 3.0 | https://learn.devsuperior.com/certificados/2115471 
+Microsoft | Certificate | https://www.microsoft.com/ | | Microsoft Certified: Azure Data Fundamentals | https://www.credly.com/badges/6a8ea78d-7243-4e32-8561-fd35a4ef9503 
+Microsoft | Certificate | https://www.microsoft.com/ | | MTA: Database Fundamentals - Certified 2020 | https://www.credly.com/badges/60b7481a-ce76-4995-8994-85a57a1e1259  
+Kanban University | Course | # | Jan 2021 |Treinamento Kanban para Times (TKP) | #
+Scrum Alliance® | Certificate | https://www.scrumalliance.org | expired | CSM - Certified ScrumMaster® | https://www.scrumalliance.org/community/profile/cdeoliveir3 
+Scrum Alliance® | Certificate | https://www.scrumalliance.org | expired |CSPO - Certified Scrum Product Owner® | https://www.scrumalliance.org/community/profile/cdeoliveir3
+Softblue | Course | https://www.softblue.com.br| November 2022 | Fundamentos de Java | https://www.softblue.com.br/certificado/142901B0F8D4  
+Softblue | Course | https://www.softblue.com.br | May 2022 | Java Insider | https://www.softblue.com.br/certificado/332251B1F2D8
