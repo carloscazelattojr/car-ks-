@@ -1,3 +1,18 @@
-Udemy | Course | https://www.udemy.com | Microservices Architecture - The Complete Guide | Mai/2023 | https://www.udemy.com/certificate/UC-08416d0f-1750-4367-8d04-b70fc2747c89/
-Udemy | Course | https://www.udemy.com | Domine Microservicos e Mensageria com Spring Cloud e Docker | Mai/2023 | https://www.udemy.com/certificate/UC-4f75026e-e8d5-4d86-80a7-7bad8d1587f5/
-Udemy | Course | https://www.udemy.com | Outro Curso | Set/2023 | https://www.udemy.com/certificate/UC-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/
+Udemy | Course | https://www.udemy.com | Mai/2023 | Microservices Architecture - The Complete Guide | https://www.udemy.com/certificate/UC-08416d0f-1750-4367-8d04-b70fc2747c89/
+Udemy | Course | https://www.udemy.com | Mai/2023 | Domine Microservicos e Mensageria com Spring Cloud e Docker | https://www.udemy.com/certificate/UC-4f75026e-e8d5-4d86-80a7-7bad8d1587f5/
+Udemy | Course | https://www.udemy.com | May 2023 | Microservices Architecture - The Complete Guide | https://www.udemy.com/certificate/UC-08416d0f-1750-4367-8d04-b70fc2747c89/
+Udemy | Course | https://www.udemy.com | May 2023 | Software Architecture Security - The Complete Guide | https://www.udemy.com/certificate/UC-c32b9ac7-15cb-44cc-a626-045f24a4d698/
+Udemy | Course | https://www.udemy.com | April 2023 | Clean Code na Prática (Código Limpo) | https://www.udemy.com/certificate/UC-63c27364-b6f1-4eda-874f-6596f25bab7b/
+Udemy | Course | https://www.udemy.com | April 2023 | Design Patterns com Java - Entendendo Padrões de Projetos | https://www.udemy.com/certificate/UC-04f3b14c-3118-4c12-9e59-77aede0ef315/
+Udemy | Course | https://www.udemy.com | April 2023 | Aprendendo Domain Driven Design (DDD) do zero | https://www.udemy.com/certificate/UC-25e73f89-5511-4b40-a8e5-50a4a289eb9d/
+Udemy | Course | https://www.udemy.com | April 2023 | Aprenda Quarkus e Desenvolva APIs RESTful Poderosas em Java | https://www.udemy.com/certificate/UC-23a13cf9-6550-4a70-8fca-024500967630/
+Udemy | Course | https://www.udemy.com | January 2023 | Arquitetura Hexagonal com Java - C1 | https://www.udemy.com/certificate/UC-bc650c11-8955-4017-8a54-f5d8289e302c/
+Udemy | Course | https://www.udemy.com | January 2023 | Software Architecture & Design of Modern Large Scale Systems | https://www.udemy.com/certificate/UC-cbea6998-50d0-4eeb-b6f8-881275d0770f/
+Udemy | Course | https://www.udemy.com | October 2022 | Apache Kafka para iniciantes | https://www.udemy.com/certificate/UC-6b5404b0-eeff-4718-8d23-7c8e35666230/
+Udemy | Course | https://www.udemy.com | October 2022 | Testes unitários em JAVA: Domine JUnit 4, Mockito e TDD | https://www.udemy.com/certificate/UC-ac6343a1-29de-4cfc-a8b7-e4b3038ae133/
+Udemy | Course | https://www.udemy.com | October 2022 | Testing Spring Boot App with JUnit, Mockito & Testcontainers em | https://www.udemy.com/certificate/UC-74ce527a-cc26-4907-9ba2-3b13e581ae4c/
+Udemy | Course | https://www.udemy.com | March 2022 | Padrões de Projeto em JAVA na Prática! | https://www.udemy.com/certificate/UC-6be4f32c-1c19-41b8-a3f8-65182585ca8f/
+Udemy | Course | https://www.udemy.com | November 2021 | Building Real-Time REST APIs with Spring Boot - Blog App | https://www.udemy.com/certificate/UC-91fbbd89-b3e2-4f66-a901-6c573eeec574/
+Udemy | Course | https://www.udemy.com | October 2021 | Java 2022 COMPLETO: Do Zero ao Profissional + Projetos! | https://www.udemy.com/certificate/UC-b4860309-e0cc-4abf-bdc7-f0b7a08c5dab/
+Udemy | Course | https://www.udemy.com | May 2021 | Microsserviços Java com Spring Boot e Spring Cloud | https://www.udemy.com/certificate/UC-95d036be-8950-4597-b8fe-d9889399c55e/
+Udemy | Course | https://www.udemy.com | June 2020 | Docker: Ferramenta essencial para Desenvolvedores | https://www.udemy.com/certificate/UC-3a59812f-4d7f-4808-b449-350b95e43aa5/
